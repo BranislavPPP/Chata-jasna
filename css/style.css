@@ -9309,7 +9309,7 @@ div.cs-select span {
   font-size: 13px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #ccc;
+  color: rgb(181 161 145 / var(--tw-text-opacity));
   padding: 10px 0 40px 0;
   border-bottom: 1px solid transparent;
   margin-bottom: -1px;
@@ -9335,18 +9335,18 @@ div.cs-select span {
   font-weight: 700;
 }
 #tabs .tabs-nav > a.active {
-  color: #ff5722;
-  border-bottom: 1px solid #ff5722;
+  color: rgb(181 161 145 / var(--tw-text-opacity));
+  border-bottom: 1px rgb(181 161 145 / var(--tw-text-opacity));
 }
 #tabs .tabs-nav > a.active .icon {
-  color: #ff5722;
+  color: rgb(181 161 145 / var(--tw-text-opacity));
 }
 #tabs .tabs-nav > a:hover {
   text-decoration: none;
-  color: #ff5722;
+  color: rgb(181 161 145 / var(--tw-text-opacity));
 }
 #tabs .tabs-nav > a:hover .icon {
-  color: #ff5722;
+  color: rgb(181 161 145 / var(--tw-text-opacity));
 }
 #tabs .tabs-nav > a:focus,
 #tabs .tabs-nav > a:active {
