@@ -8188,7 +8188,7 @@ ul,
 ol {
   margin-bottom: 1.5em;
   font-size: 18px;
-  color: white;
+  color: #848484;
   font-weight: 300;
   font-family: "Open Sans", Arial, serif;
 }
@@ -8199,7 +8199,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: white;
+  color: rgba(0, 0, 0, 0.7);
   font-weight: 400;
   margin: 0 0 30px 0;
 }
@@ -9309,7 +9309,7 @@ div.cs-select span {
   font-size: 13px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: rgb(181 161 145 / var(--tw-text-opacity));
+  color: #ccc;
   padding: 10px 0 40px 0;
   border-bottom: 1px solid transparent;
   margin-bottom: -1px;
@@ -9335,18 +9335,18 @@ div.cs-select span {
   font-weight: 700;
 }
 #tabs .tabs-nav > a.active {
-  color: rgb(181 161 145 / var(--tw-text-opacity));
-  border-bottom: 1px rgb(181 161 145 / var(--tw-text-opacity));
+  color: #ff5722;
+  border-bottom: 1px 1px solid #ff5722;
 }
 #tabs .tabs-nav > a.active .icon {
-  color: rgb(181 161 145 / var(--tw-text-opacity));
+  color: #ff5722;
 }
 #tabs .tabs-nav > a:hover {
   text-decoration: none;
-  color: rgb(181 161 145 / var(--tw-text-opacity));
+  color: #ff5722;
 }
 #tabs .tabs-nav > a:hover .icon {
-  color: rgb(181 161 145 / var(--tw-text-opacity));
+  color: #ff5722;
 }
 #tabs .tabs-nav > a:focus,
 #tabs .tabs-nav > a:active {
@@ -9676,11 +9676,11 @@ input[type="text"] {
   font-size: 16px;
 }
 #footer a {
-  color: white;
+  color: #ff5722;
 }
 #footer a:hover {
   text-decoration: underline !important;
-  color: white;
+  color: #ff5722;
 }
 #footer p {
   font-size: 16px;
@@ -9749,7 +9749,7 @@ input[type="text"] {
 }
 
 .fh5co-bg-color {
-  background: black;
+  background: #e6e6e6;
 }
 
 .section-title {
