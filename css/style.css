@@ -9150,6 +9150,7 @@ div.cs-select span {
   background-position: center center;
   overflow: hidden;
 }
+/*
 .feature-full-1col .image .descrip {
   width: 180px;
   position: absolute;
@@ -9160,6 +9161,7 @@ div.cs-select span {
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
+  */
 }
 .feature-full-1col .image .descrip p {
   margin: 0;
@@ -10139,5 +10141,14 @@ input[type="text"] {
   z-index: 9999;
   background: url(../images/hourglass.svg) center no-repeat #222222;
 }
+
+.container1, .container2 {
+    display: inline-block;
+    width: 50%; 
+    float: left;
+    
+}
+
+
 
 /*# sourceMappingURL=style.css.map */
